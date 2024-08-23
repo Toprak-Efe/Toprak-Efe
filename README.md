@@ -4,7 +4,7 @@
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTB3ODgxcDJtMXR5ZnBraG14czY5ZmU2cmZyb2wxdmR0dWtvaHZzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif" height="50px" width="1600px"/>
   </div>
 </div>
-[LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <em>Robotics & Control</em> <br>
 [ROS Simulated Navigation](https://github.com/Toprak-Efe/ros-autonomous-navigation) <br>
