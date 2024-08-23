@@ -5,7 +5,7 @@
   </div>
 </div>
 
-![https://www.linkedin.com/in/toprak-efe-akk%C4%B1l%C4%B1%C3%A7-841132250/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/toprak-efe-akk%C4%B1l%C4%B1%C3%A7-841132250/)
 
 <em>Robotics & Control</em> <br>
 [ROS Simulated Navigation](https://github.com/Toprak-Efe/ros-autonomous-navigation) <br>
