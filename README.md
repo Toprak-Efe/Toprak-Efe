@@ -19,5 +19,6 @@
 [ViT Regressor](https://github.com/Toprak-Efe/ViT) <br>
 
 [Flask Back-end](https://github.com/Ozyegin-Planetary-Robotics-Laboratory/ozurover_flask) <br>
+[RTSP Low-latency Livestreaming Client with Dashjs](https://github.com/Toprak-Efe/cs418-app.git) <br>
 [VueJS Game](https://github.com/Toprak-Efe/Luminance) <br>
 [VueJS Game](https://github.com/Toprak-Efe/SpaceBox) <br>
