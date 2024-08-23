@@ -5,6 +5,7 @@
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTB3ODgxcDJtMXR5ZnBraG14czY5ZmU2cmZyb2wxdmR0dWtvaHZzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif" height="200px" width="200px"/>
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTB3ODgxcDJtMXR5ZnBraG14czY5ZmU2cmZyb2wxdmR0dWtvaHZzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif" height="200px" width="200px"/>
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTB3ODgxcDJtMXR5ZnBraG14czY5ZmU2cmZyb2wxdmR0dWtvaHZzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif" height="200px" width="200px"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTB3ODgxcDJtMXR5ZnBraG14czY5ZmU2cmZyb2wxdmR0dWtvaHZzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif" height="200px" width="200px"/>
   </div>
 </div>
 
