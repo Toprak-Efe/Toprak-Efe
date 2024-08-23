@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>Toprak Efe</h1>
   <div id="banner" height="200px" overflow="hidden">
-    <img src="Frame 1.png" height="200px" width="640px"/>
+    <img src="Frame 1.png" height="200px" width="800px"/>
   </div>
 </div>
 
