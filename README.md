@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="Frame 1.png" width="100%"/>
+  <img src="Banner.png" width="100%"/>
 </div>
 
 <em>Robot Operating System & Embedded Linux</em> <br>
