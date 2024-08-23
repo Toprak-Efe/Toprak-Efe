@@ -14,7 +14,7 @@
 [Embedded Utility Controller](https://github.com/Ozyegin-Planetary-Robotics-Laboratory/phobos-uno.git) <br>
 [CI Docker Pipeline](https://github.com/Ozyegin-Planetary-Robotics-Laboratory/ares-docker.git) <br>
 
-<em>Vision &amp Remote Sensing</em> <br>
+<em>Vision & Remote Sensing</em> <br>
 [Lenet5](https://github.com/Toprak-Efe/lenet5example) <br>
 [ViT Regressor](https://github.com/Toprak-Efe/ViT) <br>
 
