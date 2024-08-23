@@ -5,7 +5,7 @@
   </div>
 </div>
 
-<em>Robotics & Control</em> <br>
+<em>Robot Operating System & Embedded Linux</em> <br>
 [ROS Simulated Navigation](https://github.com/Toprak-Efe/ros-autonomous-navigation) <br>
 [ROS Robotic Vehicle Locomotion](https://github.com/Ozyegin-Planetary-Robotics-Laboratory/ares_control.git) <br>
 [ROS Robotic Manipulator Control](https://github.com/Ozyegin-Planetary-Robotics-Laboratory/deimos_control.git) <br>
