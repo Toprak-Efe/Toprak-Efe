@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Toprak Efe</h1>
-  <div id="banner" width="1600px" height="200px" overflow="hidden">
+  <div id="banner" height="200px" overflow="hidden">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTB3ODgxcDJtMXR5ZnBraG14czY5ZmU2cmZyb2wxdmR0dWtvaHZzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif" width="1600px"/>
   </div>
 </div>
