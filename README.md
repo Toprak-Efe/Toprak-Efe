@@ -24,3 +24,7 @@
 [Flask Back-end](https://github.com/Ozyegin-Planetary-Robotics-Laboratory/ozurover_flask) <br>
 [VueJS Game](https://github.com/Toprak-Efe/Luminance) <br>
 [VueJS Game](https://github.com/Toprak-Efe/SpaceBox) <br>
+
+
+<em>Misc</em> <br>
+[ArtStation](https://www.artstation.com/efe_akkilic)
