@@ -2,6 +2,7 @@
   <img src="Banner.png" width="100%"/>
 </div>
 
+PS. I moved my work to a self-hosted site, contact me directly via email if you want to learn about my past projects.
 <em>Robot Operating System & Embedded Linux</em> <br>
 [ROS Simulated Navigation](https://github.com/Toprak-Efe/ros-autonomous-navigation) <br>
 [ROS Robotic Vehicle Locomotion](https://github.com/Ozyegin-Planetary-Robotics-Laboratory/ares_control.git) <br>
