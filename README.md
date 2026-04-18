@@ -2,7 +2,7 @@
   <img src="Banner.png" width="100%"/>
 </div>
 
-<em>Thesis</em>
+<em>Thesis</em> <br>
 [Project Code](https://github.com/Toprak-Efe/franka-workspace.git) <br>
 [tlib](https://github.com/Toprak-Efe/tlib.git) <br>
 
