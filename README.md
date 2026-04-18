@@ -3,8 +3,8 @@
 </div>
 
 <em>Thesis</em>
-[Project Code](https://github.com/Toprak-Efe/franka-workspace.git)
-[tlib](https://github.com/Toprak-Efe/tlib.git)
+[Project Code](https://github.com/Toprak-Efe/franka-workspace.git) <br>
+[tlib](https://github.com/Toprak-Efe/tlib.git) <br>
 
 <em>Robot Operating System & Embedded Linux</em> <br>
 [ROS Simulated Navigation](https://github.com/Toprak-Efe/ros-autonomous-navigation) <br>
